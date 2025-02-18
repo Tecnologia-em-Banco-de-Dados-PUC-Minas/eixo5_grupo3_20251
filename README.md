@@ -3,18 +3,19 @@ Arquitetura de Dados em Nuvem
 
 # TÍTULO DO PROJETO
 `CURSO`
-`ANO/SEMESTRE`
+`2025/1`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto "Análise dos Registros de Nascidos Vivos no Brasil" investiga a relação entre a situação socioeconômica materna e a saúde neonatal, utilizando dados do SINASC. A análise desses registros busca identificar padrões regionais e socioeconômicos, contribuindo para políticas públicas mais eficazes.
+
+Para isso, será desenvolvida uma arquitetura de dados em nuvem, permitindo a coleta, processamento e análise eficiente das informações. Essa abordagem facilitará a extração de insights estratégicos, promovendo melhorias nos serviços de saúde e no planejamento demográfico.
 
 ## Integrantes
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Junia Fernandes Oliveira
+* Rodolfo Cícero Lacerda Lana
+* Victor Henrique Vilas Boas de Moura
 
 ## Orientador
-* Nome completo do professor 1
+* Cristiano Geraldo Teixeira Silva
 
 # Documentação
 
