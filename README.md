@@ -10,6 +10,7 @@ O projeto investiga a relação entre a situação socioeconômica materna e a s
 Para isso, será desenvolvida uma arquitetura de dados em nuvem, permitindo a coleta, processamento e análise eficiente das informações. Essa abordagem facilitará a extração de insights estratégicos, promovendo melhorias nos serviços de saúde e no planejamento demográfico.
 
 ## Integrantes
+* Gustavo Zagnoli Cardoso
 * Junia Fernandes Oliveira
 * Rodolfo Cícero Lacerda Lana
 * Victor Henrique Vilas Boas de Moura
