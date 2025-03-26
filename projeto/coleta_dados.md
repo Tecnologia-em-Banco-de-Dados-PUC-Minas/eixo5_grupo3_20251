@@ -8,6 +8,6 @@ A extração dos dados será realizada manualmente a partir da plataforma basedo
 
 ![Armazenamento Local](imagnes/Local.png)
 ![AWS](imagens/AWS.png)
-![PySpark](imagens/PySpark.png)
+![PySpark](imagens/PySpark.jpg)
 ![S3](imagens/s3.png)
 ![Criação de Sábios](imagens/Sage_Maker.png)
