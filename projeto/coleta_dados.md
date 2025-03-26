@@ -6,8 +6,8 @@ A extração dos dados será realizada manualmente a partir da plataforma basedo
 
 ## Tecnologias Utilizadas
 
-![Armazenamento Local](local.png)
-![AWS](aws.png)
-![PySpark](pyspark.png)
-![S3](s3.png)
-![Criação de Sábios](sagemaker.png)
+![Armazenamento Local](imagnes/Local.png)
+![AWS](imagens/AWS.png)
+![PySpark](imagens/PySpark.png)
+![S3](imagens/s3.png)
+![Criação de Sábios](imagens/Sage_Maker.png)
