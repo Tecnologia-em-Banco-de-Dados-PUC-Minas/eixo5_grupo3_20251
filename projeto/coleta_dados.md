@@ -11,3 +11,4 @@ A extração dos dados será realizada manualmente a partir da plataforma basedo
 ![PySpark](imagens/PySpark.jpg)
 ![S3](imagens/s3.png)
 ![Criação de Sábios](imagens/Sage_Maker.png)
+![image alt](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo3_20251/blob/main/sagemaker.png?raw=true)
