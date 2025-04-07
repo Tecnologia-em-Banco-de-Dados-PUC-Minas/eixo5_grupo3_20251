@@ -6,7 +6,7 @@ Nesta fase, os dados brutos são armazenados no bucket s3://neonatais/Bronze/ em
 O job inicia com a leitura dos dados brutos e, em seguida, remove duplicatas para garantir a integridade dos registros, eliminando possíveis redundâncias que comprometeriam a qualidade do dataset. Após isso, uma transformação SQL é aplicada para selecionar apenas as colunas que julgamos pertinentes ao objetivo do trabalho (como sigla_uf, data_nascimento, peso...). Essas transformações padronizam o conjunto de dados e mantém o foco nas informações mais relevantes. Por fim, o resultado é gravado no bucket s3://neonatais/Silver/ em formato glueparquet com compressão Snappy, estruturando a camada Silver como um ambiente com dados limpos, porém com o tipo de dado não definido. 
 ![image alt](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo3_20251/blob/main/Bronze_To_Silver.png?raw=true)
 Mais detalhes do script disponível em: 
-[Script Python](../Script_Bronze_To-Silver.py)
+[Script Python](../Script_Bronze_To_Silver.py)
 
 ### *Camada Silver para Gold:*
 
