@@ -3,9 +3,9 @@ Nesta etapa do projeto, concentramos nossos esforços no pré-processamento dos 
 
 ## Escolha de Colunas
 
-A base de dados utilizada neste estudo contém 70 colunas, com informações sobre a mãe, a gestação, o parto o recém-nascido além de dados sobre o local e o tempo do nascimento Cada linha da base representa um registro individual de nascimento ou seja, a unidade de análise é o próprio nascimento.
+A base de dados utilizada neste estudo contém 70 colunas, com informações sobre a mãe, a gestação, o parto o recém-nascido além de dados sobre o local e o tempo do nascimento. Cada linha da base representa um registro individual de nascimento ou seja, a unidade de análise é o próprio nascimento.
 
-O objetivo deste trabalho é investigar possíveis correlações entre a condição socioeconômica da mãe e a saúde do neonato. Embora a base contenha uma ampla variedade de informações, nem todas serão consideradas na análise. O foco será direcionado às variáveis que dizem respeito à condição materna à saúde do recém-nascido e ao contexto temporal e geográfico do nascimento.
+O objetivo deste trabalho é investigar possíveis correlações entre a condição socioeconômica da mãe e a saúde do neonato. Para isso, utilizamos técnicas de machine learning com o objetivo de preencher campos ausentes nos dados (missing values), de forma a melhorar a completude e a qualidade das análises estatísticas. Embora a base contenha uma ampla variedade de informações, nem todas serão consideradas na análise. O foco será direcionado às variáveis que dizem respeito à condição materna à saúde do recém-nascido e ao contexto temporal e geográfico do nascimento.
 
 ## Indicadores de Condição Socioeconômica Materna
 
