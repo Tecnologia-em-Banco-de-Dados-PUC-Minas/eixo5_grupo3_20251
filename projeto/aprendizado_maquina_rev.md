@@ -39,7 +39,7 @@ Esses modelos foram treinados com 80% dos dados e avaliados com 20% dos dados de
    Três modelos foram treinados:
    - **XGBoost Regressor**: Utilizamos duas variações no número de estimadores (100 e 200) e taxa de aprendizado (0.1 e 0.05).
    
-   ![XGBoost](../xgboost.jpg)
+   ![XGBoost](../xg_boost.jpg)
 
    - **Ridge Regression**: Testamos duas configurações de regularização com o parâmetro **alpha** (1 e 10).
 
